@@ -1,0 +1,4 @@
+// client/babel.config.json
+{
+  "presets": ["@babel/preset-react"]
+}
